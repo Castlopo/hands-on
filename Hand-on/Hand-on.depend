@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1779472953 source:c:\users\sebas_mmkukds\downloads\hand-on\src\matriz.cpp
+	"Matriz.h"
+	<iostream>
+
+1779472952 c:\users\sebas_mmkukds\downloads\hand-on\include\matriz.h
+	<vector>
+
+1779473182 source:c:\users\sebas_mmkukds\downloads\hand-on\src\regresionlineal.cpp
+	"RegresionLineal.h"
+	<iostream>
+
+1779472943 c:\users\sebas_mmkukds\downloads\hand-on\include\regresionlineal.h
+	"Matriz.h"
+
+1779473085 source:c:\users\sebas_mmkukds\downloads\hand-on\main.cpp
+	<iostream>
+	<vector>
+	"RegresionLineal.h"
+
